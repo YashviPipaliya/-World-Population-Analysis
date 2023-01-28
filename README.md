@@ -1,4 +1,4 @@
-# -World-Population-Analysis
+# World Population Analysis
 Exploratory data analysis of world population data
 I have conducted Exploratory Data Analysis on the world population data from UN and World Bank. The main goal of this EDA is to identify patterns, outliers, and relationships within the data that can provide insights into population dynamics and trends.
 <br>
